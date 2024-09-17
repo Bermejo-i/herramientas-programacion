@@ -1,0 +1,14 @@
+C:\Israel\Semana01\LabSesion01\LabSesion01\bin\Debug\LabSesion01.exe.config
+C:\Israel\Semana01\LabSesion01\LabSesion01\bin\Debug\LabSesion01.exe
+C:\Israel\Semana01\LabSesion01\LabSesion01\bin\Debug\LabSesion01.pdb
+C:\Israel\Semana01\LabSesion01\LabSesion01\obj\Debug\LabSesion01.csproj.AssemblyReference.cache
+C:\Israel\Semana01\LabSesion01\LabSesion01\obj\Debug\LabSesion01.Properties.Resources.resources
+C:\Israel\Semana01\LabSesion01\LabSesion01\obj\Debug\LabSesion01.csproj.GenerateResource.cache
+C:\Israel\Semana01\LabSesion01\LabSesion01\obj\Debug\LabSesion01.csproj.CoreCompileInputs.cache
+C:\Israel\Semana01\LabSesion01\LabSesion01\obj\Debug\LabSesion01.exe
+C:\Israel\Semana01\LabSesion01\LabSesion01\obj\Debug\LabSesion01.pdb
+C:\Israel\Semana01\LabSesion01\LabSesion01\obj\Debug\LabSesion01.FrmAplicacion1.resources
+C:\Israel\Semana01\LabSesion01\LabSesion01\obj\Debug\LabSesion01.FrmAplicacion4.resources
+C:\Israel\Semana01\LabSesion01\LabSesion01\obj\Debug\LabSesion01.FrmPrincipal.resources
+C:\Israel\Semana01\LabSesion01\LabSesion01\obj\Debug\LabSesion01.FrmAplicacion2.resources
+C:\Israel\Semana01\LabSesion01\LabSesion01\obj\Debug\LabSesion01.FrmAplicacion3.resources
